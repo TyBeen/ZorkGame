@@ -10,3 +10,4 @@ To run this code properly do the following:
 * Type help in the game for a list of commands and what they do to help you understand how to play the game
 * Enjoy the game!
 
+There is an end to this game and you will be told once you have beaten the game.
